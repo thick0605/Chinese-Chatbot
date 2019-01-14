@@ -38,7 +38,7 @@ Seperate each conversation with ```+++$+++```
 
 ## Testing
 ```
-./run_seq2seq.sh <path/to/testing_data.txt> <path/to/output.txt>
+python3 model_seq2seq.py <path/to/testing_data.txt> <path/to/output.txt>
 ```
 
 ### Input Foramt
